@@ -1,6 +1,6 @@
 ---
 title: "Benford Group Project"
-author: "Fionnuala McPeake"
+author: "Fionnuala McPeake,Kecheng Liang, Hao Qin, Shiyu Zhang"
 date: "November 26, 2018"
 output: pdf_document
 ---
